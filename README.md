@@ -6,6 +6,7 @@ data can be used to predict the directional movement of stocks and currencies.
 The current state of the application is entirely research based and is in no way
 ready for commercial application.
 
-##Dependencies
-DataSift Streaming API
-ruby linefit gem
+##Potential Dependencies
+- DataSift Streaming API
+- ruby linefit gem
+- ruby statsample gem
